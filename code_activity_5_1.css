@@ -1,0 +1,21 @@
+h1{
+    text-shadow: 10px 10px darkgray;
+}
+input{
+    background-color: darkblue;
+    color: white;
+}
+button{
+    background-color: darkslateblue;
+    color: white;
+    box-shadow: 10px 10px darkgray;
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+}
+select{
+    width: 110px;
+    height: 30px;
+    background-color: purple;
+    color: wheat;
+}
